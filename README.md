@@ -6,5 +6,6 @@ There are pictures of different people in this collection. There are at least tw
 
 Project Description
 
-- Using PCA, we will reduce the features 
-- 
+- Using PCA, we will first reduce the features.
+- With the help of MLP classifier we will classify these images into different people (Consider this as recognizing different faces)
+
